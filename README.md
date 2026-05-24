@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # Multi-Source News Aggregator Application
 
 A Python-based Command-Line Interface (CLI) application designed to collect, parse, and centralize real-time news updates from multiple concurrent streams. The application seamlessly integrates **NewsAPI (JSON/REST)** and public **RSS Feeds (XML)** into a single, de-duplicated terminal experience.
